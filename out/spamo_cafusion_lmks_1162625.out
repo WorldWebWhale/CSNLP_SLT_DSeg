@@ -1,0 +1,696 @@
+/capstor/scratch/cscs/lherbe/huggingface
+/capstor/scratch/cscs/lherbe/huggingface
+/capstor/scratch/cscs/lherbe/huggingface
+/capstor/scratch/cscs/lherbe/huggingface
+Epoch 0Epoch 0
+Epoch 0
+
+Epoch 0
+Epoch 0 | Step 0 | Loss 10.2958
+Epoch 0 | Step 50 | Loss 14.2868
+Epoch 0 | Step 100 | Loss 12.9594
+Epoch 0 | Step 150 | Loss 5.0724
+Epoch 0 | Step 200 | Loss 4.4847
+Epoch 0 | Step 250 | Loss 3.3231
+Epoch 0 | Step 300 | Loss 2.7887
+Epoch 0 | Step 350 | Loss 2.3743
+Epoch 0 | Step 400 | Loss 1.7675
+Epoch 1
+Epoch 1
+Epoch 1
+Epoch 1
+Epoch 1 | Step 0 | Loss 3.2279
+Epoch 1 | Step 50 | Loss 2.9080
+Epoch 1 | Step 100 | Loss 1.8527
+Epoch 1 | Step 150 | Loss 2.6324
+Epoch 1 | Step 200 | Loss 2.9390
+Epoch 1 | Step 250 | Loss 2.3306
+Epoch 1 | Step 300 | Loss 2.3323
+Epoch 1 | Step 350 | Loss 2.0903
+Epoch 1 | Step 400 | Loss 1.2954
+Epoch 2
+Epoch 2
+Epoch 2
+Epoch 2
+Epoch 2 | Step 0 | Loss 2.4207
+Epoch 2 | Step 50 | Loss 2.4915
+Epoch 2 | Step 100 | Loss 1.4589
+Epoch 2 | Step 150 | Loss 1.7221
+Epoch 2 | Step 200 | Loss 2.2609
+Epoch 2 | Step 250 | Loss 1.7096
+Epoch 2 | Step 300 | Loss 2.1597
+Epoch 2 | Step 350 | Loss 1.7730
+Epoch 2 | Step 400 | Loss 1.0383
+Epoch 3
+Epoch 3
+Epoch 3
+Epoch 3
+Epoch 3 | Step 0 | Loss 1.8591
+Epoch 3 | Step 50 | Loss 2.1720
+Epoch 3 | Step 100 | Loss 1.2270
+Epoch 3 | Step 150 | Loss 1.4099
+Epoch 3 | Step 200 | Loss 1.7528
+Epoch 3 | Step 250 | Loss 1.5118
+Epoch 3 | Step 300 | Loss 2.0034
+Epoch 3 | Step 350 | Loss 1.4474
+Epoch 3 | Step 400 | Loss 0.9335
+Epoch 4
+Epoch 4
+Epoch 4
+Epoch 4
+Epoch 4 | Step 0 | Loss 1.5634
+Epoch 4 | Step 50 | Loss 1.9027
+Epoch 4 | Step 100 | Loss 0.9696
+Epoch 4 | Step 150 | Loss 1.1988
+Epoch 4 | Step 200 | Loss 1.4757
+Epoch 4 | Step 250 | Loss 1.3546
+Epoch 4 | Step 300 | Loss 1.9160
+Epoch 4 | Step 350 | Loss 1.2868
+Epoch 4 | Step 400 | Loss 0.8584
+Epoch 5
+Epoch 5
+Epoch 5
+Epoch 5
+Epoch 5 | Step 0 | Loss 1.3969
+Epoch 5 | Step 50 | Loss 1.7174
+Epoch 5 | Step 100 | Loss 0.8070
+Epoch 5 | Step 150 | Loss 1.0907
+Epoch 5 | Step 200 | Loss 1.3559
+Epoch 5 | Step 250 | Loss 1.2657
+Epoch 5 | Step 300 | Loss 1.8335
+Epoch 5 | Step 350 | Loss 1.1715
+Epoch 5 | Step 400 | Loss 0.8003
+Epoch 6
+Epoch 6
+Epoch 6
+Epoch 6
+Epoch 6 | Step 0 | Loss 1.2549
+Epoch 6 | Step 50 | Loss 1.5482
+Epoch 6 | Step 100 | Loss 0.7224
+Epoch 6 | Step 150 | Loss 1.0272
+Epoch 6 | Step 200 | Loss 1.2099
+Epoch 6 | Step 250 | Loss 1.1733
+Epoch 6 | Step 300 | Loss 1.7450
+Epoch 6 | Step 350 | Loss 1.0663
+Epoch 6 | Step 400 | Loss 0.7722
+Epoch 7
+Epoch 7
+Epoch 7
+Epoch 7
+Epoch 7 | Step 0 | Loss 1.1421
+Epoch 7 | Step 50 | Loss 1.4351
+Epoch 7 | Step 100 | Loss 0.6442
+Epoch 7 | Step 150 | Loss 0.9357
+Epoch 7 | Step 200 | Loss 1.0774
+Epoch 7 | Step 250 | Loss 1.1371
+Epoch 7 | Step 300 | Loss 1.6894
+Epoch 7 | Step 350 | Loss 0.9711
+Epoch 7 | Step 400 | Loss 0.7507
+Epoch 8
+Epoch 8
+Epoch 8
+Epoch 8
+Epoch 8 | Step 0 | Loss 1.0462
+Epoch 8 | Step 50 | Loss 1.3330
+Epoch 8 | Step 100 | Loss 0.6109
+Epoch 8 | Step 150 | Loss 0.8641
+Epoch 8 | Step 200 | Loss 0.9944
+Epoch 8 | Step 250 | Loss 1.0884
+Epoch 8 | Step 300 | Loss 1.6417
+Epoch 8 | Step 350 | Loss 0.9347
+Epoch 8 | Step 400 | Loss 0.7252
+Epoch 9
+Epoch 9Epoch 9
+
+Epoch 9
+Epoch 9 | Step 0 | Loss 0.9449
+Epoch 9 | Step 50 | Loss 1.3308
+Epoch 9 | Step 100 | Loss 0.5639
+Epoch 9 | Step 150 | Loss 0.7973
+Epoch 9 | Step 200 | Loss 0.9050
+Epoch 9 | Step 250 | Loss 1.0553
+Epoch 9 | Step 300 | Loss 1.6413
+Epoch 9 | Step 350 | Loss 0.8689
+Epoch 9 | Step 400 | Loss 0.7097
+Epoch 10
+Epoch 10
+Epoch 10
+Epoch 10
+Epoch 10 | Step 0 | Loss 0.8615
+Epoch 10 | Step 50 | Loss 1.2681
+Epoch 10 | Step 100 | Loss 0.5525
+Epoch 10 | Step 150 | Loss 0.7725
+Epoch 10 | Step 200 | Loss 0.8116
+Epoch 10 | Step 250 | Loss 1.0315
+Epoch 10 | Step 300 | Loss 1.6159
+Epoch 10 | Step 350 | Loss 0.8332
+Epoch 10 | Step 400 | Loss 0.6954
+Epoch 11
+Epoch 11
+Epoch 11
+Epoch 11
+Epoch 11 | Step 0 | Loss 0.8004
+Epoch 11 | Step 50 | Loss 1.2589
+Epoch 11 | Step 100 | Loss 0.5369
+Epoch 11 | Step 150 | Loss 0.7570
+Epoch 11 | Step 200 | Loss 0.7821
+Epoch 11 | Step 250 | Loss 0.9999
+Epoch 11 | Step 300 | Loss 1.5948
+Epoch 11 | Step 350 | Loss 0.8137
+Epoch 11 | Step 400 | Loss 0.6976
+Epoch 12
+Epoch 12
+Epoch 12
+Epoch 12
+Epoch 12 | Step 0 | Loss 0.7443
+Epoch 12 | Step 50 | Loss 1.2007
+Epoch 12 | Step 100 | Loss 0.5240
+Epoch 12 | Step 150 | Loss 0.7310
+Epoch 12 | Step 200 | Loss 0.7545
+Epoch 12 | Step 250 | Loss 0.9932
+Epoch 12 | Step 300 | Loss 1.5918
+Epoch 12 | Step 350 | Loss 0.7795
+Epoch 12 | Step 400 | Loss 0.6775
+Epoch 13
+Epoch 13Epoch 13
+
+Epoch 13
+Epoch 13 | Step 0 | Loss 0.6932
+Epoch 13 | Step 50 | Loss 1.1490
+Epoch 13 | Step 100 | Loss 0.4838
+Epoch 13 | Step 150 | Loss 0.7260
+Epoch 13 | Step 200 | Loss 0.7299
+Epoch 13 | Step 250 | Loss 0.9590
+Epoch 13 | Step 300 | Loss 1.5457
+Epoch 13 | Step 350 | Loss 0.7640
+Epoch 13 | Step 400 | Loss 0.6892
+Epoch 14
+Epoch 14
+Epoch 14
+Epoch 14
+Epoch 14 | Step 0 | Loss 0.6837
+Epoch 14 | Step 50 | Loss 1.0999
+Epoch 14 | Step 100 | Loss 0.4862
+Epoch 14 | Step 150 | Loss 0.6700
+Epoch 14 | Step 200 | Loss 0.6846
+Epoch 14 | Step 250 | Loss 0.9723
+Epoch 14 | Step 300 | Loss 1.5635
+Epoch 14 | Step 350 | Loss 0.7544
+Epoch 14 | Step 400 | Loss 0.6737
+Epoch 15
+Epoch 15
+Epoch 15
+Epoch 15
+Epoch 15 | Step 0 | Loss 0.6945
+Epoch 15 | Step 50 | Loss 1.1062
+Epoch 15 | Step 100 | Loss 0.4825
+Epoch 15 | Step 150 | Loss 0.6249
+Epoch 15 | Step 200 | Loss 0.6312
+Epoch 15 | Step 250 | Loss 0.9292
+Epoch 15 | Step 300 | Loss 1.5407
+Epoch 15 | Step 350 | Loss 0.7585
+Epoch 15 | Step 400 | Loss 0.6496
+Epoch 16
+Epoch 16
+Epoch 16
+Epoch 16
+Epoch 16 | Step 0 | Loss 0.6235
+Epoch 16 | Step 50 | Loss 1.0409
+Epoch 16 | Step 100 | Loss 0.4681
+Epoch 16 | Step 150 | Loss 0.6005
+Epoch 16 | Step 200 | Loss 0.6910
+Epoch 16 | Step 250 | Loss 0.9023
+Epoch 16 | Step 300 | Loss 1.4969
+Epoch 16 | Step 350 | Loss 0.7751
+Epoch 16 | Step 400 | Loss 0.6291
+Epoch 17
+Epoch 17
+Epoch 17
+Epoch 17
+Epoch 17 | Step 0 | Loss 0.6152
+Epoch 17 | Step 50 | Loss 1.0343
+Epoch 17 | Step 100 | Loss 0.4518
+Epoch 17 | Step 150 | Loss 0.5913
+Epoch 17 | Step 200 | Loss 0.6309
+Epoch 17 | Step 250 | Loss 0.9071
+Epoch 17 | Step 300 | Loss 1.4538
+Epoch 17 | Step 350 | Loss 0.7298
+Epoch 17 | Step 400 | Loss 0.6167
+Epoch 18
+Epoch 18
+Epoch 18
+Epoch 18
+Epoch 18 | Step 0 | Loss 0.5909
+Epoch 18 | Step 50 | Loss 0.9593
+Epoch 18 | Step 100 | Loss 0.4748
+Epoch 18 | Step 150 | Loss 0.5838
+Epoch 18 | Step 200 | Loss 0.6475
+Epoch 18 | Step 250 | Loss 0.8690
+Epoch 18 | Step 300 | Loss 1.4636
+Epoch 18 | Step 350 | Loss 0.6898
+Epoch 18 | Step 400 | Loss 0.6145
+Epoch 19
+Epoch 19
+Epoch 19
+Epoch 19
+Epoch 19 | Step 0 | Loss 0.5493
+Epoch 19 | Step 50 | Loss 0.9818
+Epoch 19 | Step 100 | Loss 0.4875
+Epoch 19 | Step 150 | Loss 0.5428
+Epoch 19 | Step 200 | Loss 0.6076
+Epoch 19 | Step 250 | Loss 0.8660
+Epoch 19 | Step 300 | Loss 1.3972
+Epoch 19 | Step 350 | Loss 0.7044
+Epoch 19 | Step 400 | Loss 0.6078
+Epoch 20
+Epoch 20
+Epoch 20
+Epoch 20
+Epoch 20 | Step 0 | Loss 0.4960
+Epoch 20 | Step 50 | Loss 0.9620
+Epoch 20 | Step 100 | Loss 0.4335
+Epoch 20 | Step 150 | Loss 0.5246
+Epoch 20 | Step 200 | Loss 0.6297
+Epoch 20 | Step 250 | Loss 0.8232
+Epoch 20 | Step 300 | Loss 1.3773
+Epoch 20 | Step 350 | Loss 0.6587
+Epoch 20 | Step 400 | Loss 0.5999
+Epoch 21
+Epoch 21
+Epoch 21
+Epoch 21
+Epoch 21 | Step 0 | Loss 0.5401
+Epoch 21 | Step 50 | Loss 0.9265
+Epoch 21 | Step 100 | Loss 0.4658
+Epoch 21 | Step 150 | Loss 0.5599
+Epoch 21 | Step 200 | Loss 0.6149
+Epoch 21 | Step 250 | Loss 0.8122
+Epoch 21 | Step 300 | Loss 1.3473
+Epoch 21 | Step 350 | Loss 0.6356
+Epoch 21 | Step 400 | Loss 0.5971
+Epoch 22
+Epoch 22
+Epoch 22
+Epoch 22
+Epoch 22 | Step 0 | Loss 0.4842
+Epoch 22 | Step 50 | Loss 0.9681
+Epoch 22 | Step 100 | Loss 0.4580
+Epoch 22 | Step 150 | Loss 0.5055
+Epoch 22 | Step 200 | Loss 0.5812
+Epoch 22 | Step 250 | Loss 0.8261
+Epoch 22 | Step 300 | Loss 1.3354
+Epoch 22 | Step 350 | Loss 0.5672
+Epoch 22 | Step 400 | Loss 0.5893
+Epoch 23
+Epoch 23
+Epoch 23
+Epoch 23
+Epoch 23 | Step 0 | Loss 0.4534
+Epoch 23 | Step 50 | Loss 0.9037
+Epoch 23 | Step 100 | Loss 0.4335
+Epoch 23 | Step 150 | Loss 0.4824
+Epoch 23 | Step 200 | Loss 0.5757
+Epoch 23 | Step 250 | Loss 0.7829
+Epoch 23 | Step 300 | Loss 1.2865
+Epoch 23 | Step 350 | Loss 0.5288
+Epoch 23 | Step 400 | Loss 0.5722
+Epoch 24
+Epoch 24
+Epoch 24
+Epoch 24
+Epoch 24 | Step 0 | Loss 0.4155
+Epoch 24 | Step 50 | Loss 0.8623
+Epoch 24 | Step 100 | Loss 0.4426
+Epoch 24 | Step 150 | Loss 0.4589
+Epoch 24 | Step 200 | Loss 0.5490
+Epoch 24 | Step 250 | Loss 0.7220
+Epoch 24 | Step 300 | Loss 1.2681
+Epoch 24 | Step 350 | Loss 0.5695
+Epoch 24 | Step 400 | Loss 0.5660
+Epoch 25Epoch 25
+
+Epoch 25
+Epoch 25
+Epoch 25 | Step 0 | Loss 0.4246
+Epoch 25 | Step 50 | Loss 0.8223
+Epoch 25 | Step 100 | Loss 0.4045
+Epoch 25 | Step 150 | Loss 0.4633
+Epoch 25 | Step 200 | Loss 0.5397
+Epoch 25 | Step 250 | Loss 0.7346
+Epoch 25 | Step 300 | Loss 1.2545
+Epoch 25 | Step 350 | Loss 0.5694
+Epoch 25 | Step 400 | Loss 0.5755
+Epoch 26
+Epoch 26
+Epoch 26
+Epoch 26
+Epoch 26 | Step 0 | Loss 0.3876
+Epoch 26 | Step 50 | Loss 0.8016
+Epoch 26 | Step 100 | Loss 0.3965
+Epoch 26 | Step 150 | Loss 0.4417
+Epoch 26 | Step 200 | Loss 0.5204
+Epoch 26 | Step 250 | Loss 0.6743
+Epoch 26 | Step 300 | Loss 1.2392
+Epoch 26 | Step 350 | Loss 0.5268
+Epoch 26 | Step 400 | Loss 0.5465
+Epoch 27
+Epoch 27
+Epoch 27
+Epoch 27
+Epoch 27 | Step 0 | Loss 0.4048
+Epoch 27 | Step 50 | Loss 0.7822
+Epoch 27 | Step 100 | Loss 0.4198
+Epoch 27 | Step 150 | Loss 0.4729
+Epoch 27 | Step 200 | Loss 0.4483
+Epoch 27 | Step 250 | Loss 0.6853
+Epoch 27 | Step 300 | Loss 1.2376
+Epoch 27 | Step 350 | Loss 0.5562
+Epoch 27 | Step 400 | Loss 0.5639
+Epoch 28
+Epoch 28
+Epoch 28
+Epoch 28
+Epoch 28 | Step 0 | Loss 0.3822
+Epoch 28 | Step 50 | Loss 0.8110
+Epoch 28 | Step 100 | Loss 0.4090
+Epoch 28 | Step 150 | Loss 0.4562
+Epoch 28 | Step 200 | Loss 0.5413
+Epoch 28 | Step 250 | Loss 0.6513
+Epoch 28 | Step 300 | Loss 1.2143
+Epoch 28 | Step 350 | Loss 0.4432
+Epoch 28 | Step 400 | Loss 0.5516
+Epoch 29
+Epoch 29
+Epoch 29
+Epoch 29
+Epoch 29 | Step 0 | Loss 0.4020
+Epoch 29 | Step 50 | Loss 0.7158
+Epoch 29 | Step 100 | Loss 0.3796
+Epoch 29 | Step 150 | Loss 0.4328
+Epoch 29 | Step 200 | Loss 0.4794
+Epoch 29 | Step 250 | Loss 0.6249
+Epoch 29 | Step 300 | Loss 1.2131
+Epoch 29 | Step 350 | Loss 0.4657
+Epoch 29 | Step 400 | Loss 0.5449
+Epoch 30
+Epoch 30
+Epoch 30
+Epoch 30
+Epoch 30 | Step 0 | Loss 0.3564
+Epoch 30 | Step 50 | Loss 0.7273
+Epoch 30 | Step 100 | Loss 0.3487
+Epoch 30 | Step 150 | Loss 0.4205
+Epoch 30 | Step 200 | Loss 0.4826
+Epoch 30 | Step 250 | Loss 0.6374
+Epoch 30 | Step 300 | Loss 1.1047
+Epoch 30 | Step 350 | Loss 0.4274
+Epoch 30 | Step 400 | Loss 0.5173
+Epoch 31
+Epoch 31
+Epoch 31
+Epoch 31
+Epoch 31 | Step 0 | Loss 0.3398
+Epoch 31 | Step 50 | Loss 0.7294
+Epoch 31 | Step 100 | Loss 0.3267
+Epoch 31 | Step 150 | Loss 0.4206
+Epoch 31 | Step 200 | Loss 0.4712
+Epoch 31 | Step 250 | Loss 0.6244
+Epoch 31 | Step 300 | Loss 1.1035
+Epoch 31 | Step 350 | Loss 0.4203
+Epoch 31 | Step 400 | Loss 0.5470
+Epoch 32
+Epoch 32
+Epoch 32
+Epoch 32
+Epoch 32 | Step 0 | Loss 0.3154
+Epoch 32 | Step 50 | Loss 0.7350
+Epoch 32 | Step 100 | Loss 0.3563
+Epoch 32 | Step 150 | Loss 0.4204
+Epoch 32 | Step 200 | Loss 0.4257
+Epoch 32 | Step 250 | Loss 0.6019
+Epoch 32 | Step 300 | Loss 1.0619
+Epoch 32 | Step 350 | Loss 0.4469
+Epoch 32 | Step 400 | Loss 0.5050
+Epoch 33
+Epoch 33
+Epoch 33
+Epoch 33
+Epoch 33 | Step 0 | Loss 0.3008
+Epoch 33 | Step 50 | Loss 0.7087
+Epoch 33 | Step 100 | Loss 0.3429
+Epoch 33 | Step 150 | Loss 0.3435
+Epoch 33 | Step 200 | Loss 0.4345
+Epoch 33 | Step 250 | Loss 0.5870
+Epoch 33 | Step 300 | Loss 1.0656
+Epoch 33 | Step 350 | Loss 0.3871
+Epoch 33 | Step 400 | Loss 0.4956
+Epoch 34
+Epoch 34
+Epoch 34
+Epoch 34
+Epoch 34 | Step 0 | Loss 0.2825
+Epoch 34 | Step 50 | Loss 0.6336
+Epoch 34 | Step 100 | Loss 0.3162
+Epoch 34 | Step 150 | Loss 0.4298
+Epoch 34 | Step 200 | Loss 0.4448
+Epoch 34 | Step 250 | Loss 0.5971
+Epoch 34 | Step 300 | Loss 1.0216
+Epoch 34 | Step 350 | Loss 0.4476
+Epoch 34 | Step 400 | Loss 0.4991
+Epoch 35
+Epoch 35
+Epoch 35
+Epoch 35
+Epoch 35 | Step 0 | Loss 0.2971
+Epoch 35 | Step 50 | Loss 0.6256
+Epoch 35 | Step 100 | Loss 0.3325
+Epoch 35 | Step 150 | Loss 0.4006
+Epoch 35 | Step 200 | Loss 0.4760
+Epoch 35 | Step 250 | Loss 0.5400
+Epoch 35 | Step 300 | Loss 0.9994
+Epoch 35 | Step 350 | Loss 0.3594
+Epoch 35 | Step 400 | Loss 0.4868
+Epoch 36
+Epoch 36
+Epoch 36
+Epoch 36
+Epoch 36 | Step 0 | Loss 0.2802
+Epoch 36 | Step 50 | Loss 0.6266
+Epoch 36 | Step 100 | Loss 0.3017
+Epoch 36 | Step 150 | Loss 0.3799
+Epoch 36 | Step 200 | Loss 0.5619
+Epoch 36 | Step 250 | Loss 0.4952
+Epoch 36 | Step 300 | Loss 0.9957
+Epoch 36 | Step 350 | Loss 0.4039
+Epoch 36 | Step 400 | Loss 0.4821
+Epoch 37
+Epoch 37
+Epoch 37
+Epoch 37
+Epoch 37 | Step 0 | Loss 0.2690
+Epoch 37 | Step 50 | Loss 0.5841
+Epoch 37 | Step 100 | Loss 0.2770
+Epoch 37 | Step 150 | Loss 0.4181
+Epoch 37 | Step 200 | Loss 0.5295
+Epoch 37 | Step 250 | Loss 0.5348
+Epoch 37 | Step 300 | Loss 0.9803
+Epoch 37 | Step 350 | Loss 0.3528
+Epoch 37 | Step 400 | Loss 0.4484
+Epoch 38
+Epoch 38
+Epoch 38
+Epoch 38
+Epoch 38 | Step 0 | Loss 0.2389
+Epoch 38 | Step 50 | Loss 0.6169
+Epoch 38 | Step 100 | Loss 0.2756
+Epoch 38 | Step 150 | Loss 0.4199
+Epoch 38 | Step 200 | Loss 0.4717
+Epoch 38 | Step 250 | Loss 0.5249
+Epoch 38 | Step 300 | Loss 0.9655
+Epoch 38 | Step 350 | Loss 0.3248
+Epoch 38 | Step 400 | Loss 0.4241
+Epoch 39
+Epoch 39
+Epoch 39
+Epoch 39
+Epoch 39 | Step 0 | Loss 0.2558
+Epoch 39 | Step 50 | Loss 0.5647
+Epoch 39 | Step 100 | Loss 0.3047
+Epoch 39 | Step 150 | Loss 0.3537
+Epoch 39 | Step 200 | Loss 0.5324
+Epoch 39 | Step 250 | Loss 0.5273
+Epoch 39 | Step 300 | Loss 0.9660
+Epoch 39 | Step 350 | Loss 0.3618
+Epoch 39 | Step 400 | Loss 0.4186
+Training finished
+Training finished
+Training finished
+Training finished
+Loss log saved to loss_logs/spamo_cross_attention_fusion_lmk_20250613_222918.txt
+
+ -> Video: 25October_2010_Monday_tagesschau-17
+     Gold: regen und schnee lassen an den alpen in der nacht nach im norden und nordosten fallen hier und da schauer sonst ist das klar
+     Pred: morgen temperaturen von fünf grad an der oder bis zu fünfzehn grad am oberrhein
+
+ -> Video: 25October_2010_Monday_tagesschau-17
+     Gold: regen und schnee lassen an den alpen in der nacht nach im norden und nordosten fallen hier und da schauer sonst ist das klar
+     Pred: am samstag ist es im süden und osten meist bewölkt nur noch einzelne schauer sonst über den bergen einzelne schauer und gewitter
+
+ -> Video: 25October_2010_Monday_tagesschau-17
+     Gold: regen und schnee lassen an den alpen in der nacht nach im norden und nordosten fallen hier und da schauer sonst ist das klar
+     Pred: in der nacht verlagern sich zum teil ergiebige regenfälle aus der mitte richtung süden dahinter ist es vielerorts klar es bleibt weitgehend trocken
+
+ -> Video: 25October_2010_Monday_tagesschau-17
+     Gold: regen und schnee lassen an den alpen in der nacht nach im norden und nordosten fallen hier und da schauer sonst ist das klar
+     Pred: am samstag ist es im süden und osten meist bewölkt nur noch einzelne schauer sonst über den bergen einzelne schauer und gewitter
+
+ -> Video: 25October_2010_Monday_tagesschau-24
+     Gold: am donnerstag regen in der nordhälfte in der südhälfte mal sonne mal wolken ähnliches wetter dann auch am freitag
+     Pred: am samstag ist es im süden meist bedeckt mit blitz und donner aber teilweise auch wolken mit schauern und gewittern
+
+ -> Video: 25October_2010_Monday_tagesschau-24
+     Gold: am donnerstag regen in der nordhälfte in der südhälfte mal sonne mal wolken ähnliches wetter dann auch am freitag
+     Pred: am samstag ist es im süden meist bedeckt mit blitz und donner aber teilweise auch wolken mit schauern und gewittern
+
+ -> Video: 25October_2010_Monday_tagesschau-24
+     Gold: am donnerstag regen in der nordhälfte in der südhälfte mal sonne mal wolken ähnliches wetter dann auch am freitag
+     Pred: am samstag ist es im süden und osten meist bewölkt nur noch einzelne schauer sonst scheint im übrigen land häufig die sonne
+
+ -> Video: 25October_2010_Monday_tagesschau-24
+     Gold: am donnerstag regen in der nordhälfte in der südhälfte mal sonne mal wolken ähnliches wetter dann auch am freitag
+     Pred: am samstag ist es im süden meist stark bewölkt richtung südosten ist es freundlich nur ganz im süden und südwesten vereinzelt schauer oder gewitter
+
+ -> Video: 15December_2010_Wednesday_tagesschau-37
+     Gold: vom nordmeer zieht ein kräftiges tief heran und bringt uns ab den morgenstunden heftige schneefälle zum teil auch gefrierenden regen
+     Pred: am samstag ist es im süden meist bedeckt mit blitz und donner aber teilweise auch wolken mit schauern und gewittern hier und da bleibt es allerdings trocken
+
+ -> Video: 15December_2010_Wednesday_tagesschau-37
+     Gold: vom nordmeer zieht ein kräftiges tief heran und bringt uns ab den morgenstunden heftige schneefälle zum teil auch gefrierenden regen
+     Pred: am samstag ist es im süden und osten meist bewölkt nur noch einzelne schauer sonst scheint oft die sonne und es wird kälter
+
+ -> Video: 15December_2010_Wednesday_tagesschau-37
+     Gold: vom nordmeer zieht ein kräftiges tief heran und bringt uns ab den morgenstunden heftige schneefälle zum teil auch gefrierenden regen
+     Pred: morgen temperaturen von fünfzehn grad an der see bis achtzehn grad im breisgau
+
+ -> Video: 15December_2010_Wednesday_tagesschau-37
+     Gold: vom nordmeer zieht ein kräftiges tief heran und bringt uns ab den morgenstunden heftige schneefälle zum teil auch gefrierenden regen
+     Pred: am samstag ist es im süden und osten meist bewölkt nur noch einzelne schauer sonst scheint oft die sonne und es wird recht freundlich
+
+ -> Video: 10March_2011_Thursday_heute-58
+     Gold: sonnig geht es auch ins wochenende samstag ein herrlicher tag mit temperaturen bis siebzehn grad hier im westen
+     Pred: am samstag ist es meist stark bewölkt hier und da regnet es nur vereinzelt ein paar tropfen
+
+ -> Video: 10March_2011_Thursday_heute-58
+     Gold: sonnig geht es auch ins wochenende samstag ein herrlicher tag mit temperaturen bis siebzehn grad hier im westen
+     Pred: am samstag ist es meist stark bewölkt hier und da regnet es nur vereinzelt ein paar tropfen
+
+ -> Video: 10March_2011_Thursday_heute-58
+     Gold: sonnig geht es auch ins wochenende samstag ein herrlicher tag mit temperaturen bis siebzehn grad hier im westen
+     Pred: am samstag ist es meist stark bewölkt hier und da bildet sich nebel besonders am nachmittag verlagert sich nebelfelder aus
+
+ -> Video: 10March_2011_Thursday_heute-58
+     Gold: sonnig geht es auch ins wochenende samstag ein herrlicher tag mit temperaturen bis siebzehn grad hier im westen
+     Pred: es weht ein kräftiges kräftiges südischer böiger beziehungsweise strenger südwind an der küste auch zur zeit kräftige schauer oder gewitter
+
+ -> Video: 14August_2009_Friday_tagesschau-62
+     Gold: deutschland liegt morgen unter hochdruckeinfluss der die wolken weitgehend vertreibt
+     Pred: morgen temperaturen von fünf grad im vogtland bis dreizehn grad am oberrhein
+
+ -> Video: 14August_2009_Friday_tagesschau-62
+     Gold: deutschland liegt morgen unter hochdruckeinfluss der die wolken weitgehend vertreibt
+     Pred: am samstag ist es im norden recht freundlich sonst regnet es gebietsweise zwischen mitte und bergland freundliches wetter
+
+ -> Video: 14August_2009_Friday_tagesschau-62
+     Gold: deutschland liegt morgen unter hochdruckeinfluss der die wolken weitgehend vertreibt
+     Pred: morgen temperaturen von fünf grad im vogtland bis dreizehn grad am oberrhein
+
+ -> Video: 14August_2009_Friday_tagesschau-62
+     Gold: deutschland liegt morgen unter hochdruckeinfluss der die wolken weitgehend vertreibt
+     Pred: das tief über großbritannien sorgt dafür dass es später klart in den südlichen hochlagen häufig für längere zeit
+
+ -> Video: 14August_2009_Friday_tagesschau-73
+     Gold: am sonntag im nordwesten eine mischung aus sonne und wolken mit einigen zum teil gewittrigen schauern
+     Pred: am samstag ist es im süden meist bedeckt mit blitz, donner und sturm sonst sonne und wolken allmählich freundliches wetter
+
+ -> Video: 14August_2009_Friday_tagesschau-73
+     Gold: am sonntag im nordwesten eine mischung aus sonne und wolken mit einigen zum teil gewittrigen schauern
+     Pred: am samstag ist es im süden meist bedeckt mit blitz, donner und sturm sonst sonne und wolken allmählich freundliches wetter
+
+ -> Video: 14August_2009_Friday_tagesschau-73
+     Gold: am sonntag im nordwesten eine mischung aus sonne und wolken mit einigen zum teil gewittrigen schauern
+     Pred: am samstag ist es im süden meist stark bewölkt richtung südosten ist es freundlich
+
+ -> Video: 14August_2009_Friday_tagesschau-75
+     Gold: örtlich schauer oder gewitter die heftig sein können
+     Pred: und nun die wettervorhersage für morgen mittwoch den dreißigsten september
+
+ -> Video: 14August_2009_Friday_tagesschau-75
+     Gold: örtlich schauer oder gewitter die heftig sein können
+     Pred: und nun die wettervorhersage für morgen mittwoch den dreißigsten september
+
+ -> Video: 14August_2009_Friday_tagesschau-75
+     Gold: örtlich schauer oder gewitter die heftig sein können
+     Pred: und nun die wettervorhersage für morgen mittwoch den dreißigsten september
+
+ -> Video: 14August_2009_Friday_tagesschau-73
+     Gold: am sonntag im nordwesten eine mischung aus sonne und wolken mit einigen zum teil gewittrigen schauern
+     Pred: am samstag ist es im süden meist bedeckt mit blitz, donner und sturm sonst teils freundlich teils dicht bewölkt
+
+ -> Video: 26January_2010_Tuesday_heute-105
+     Gold: in den nächsten tagen geht es auf jeden fall winterlich weiter immer wieder mal mit etwas schnee
+     Pred: und nun die wettervorhersage für morgen freitag april
+
+ -> Video: 26January_2010_Tuesday_heute-105
+     Gold: in den nächsten tagen geht es auf jeden fall winterlich weiter immer wieder mal mit etwas schnee
+     Pred: morgen weht der wind im norden und der mitte schwach bis mäßig sonst macht sich stellenweise nebel scheinen
+
+ -> Video: 26January_2010_Tuesday_heute-105
+     Gold: in den nächsten tagen geht es auf jeden fall winterlich weiter immer wieder mal mit etwas schnee
+     Pred: morgen weht der wind im norden und der mitte schwach im süden auch mal mitunter gewittrige schauer
+
+ -> Video: 14August_2009_Friday_tagesschau-75
+     Gold: örtlich schauer oder gewitter die heftig sein können
+     Pred: das tief über skandinavien bringt uns zum teil wechselhaftes und regenliches wetter
+
+ -> Video: 26January_2010_Tuesday_heute-106
+     Gold: und zum wochenende wird es dann sogar wieder ein bisschen kälter
+     Pred: und nun die wettervorhersage für morgen sonntag den dreißigsten september
+
+ -> Video: 26January_2010_Tuesday_heute-106
+     Gold: und zum wochenende wird es dann sogar wieder ein bisschen kälter
+     Pred: und nun die wettervorhersage für morgen sonntag den dreißigsten september
+
+ -> Video: 26January_2010_Tuesday_heute-106
+     Gold: und zum wochenende wird es dann sogar wieder ein bisschen kälter
+     Pred: und nun die wettervorhersage für morgen sonntag den dreißigsten september
+
+ -> Video: 26January_2010_Tuesday_heute-105
+     Gold: in den nächsten tagen geht es auf jeden fall winterlich weiter immer wieder mal mit etwas schnee
+     Pred: und nun die wettervorhersage für morgen freitag april
+
+ -> Video: 26January_2010_Tuesday_heute-106
+     Gold: und zum wochenende wird es dann sogar wieder ein bisschen kälter
+     Pred: und nun die wettervorhersage für morgen sonntag den dreißigsten september
+
+ -> Video: 01November_2010_Monday_tagesschau-133
+     Gold: auch morgen erwartet uns eine ruhige herbstmischung aus hochnebel wolken und sonne
+     Pred: am dienstag ist es im süden freundlich sonst regnet es mancherorts bis zu den alpen
+
+ -> Video: 01November_2010_Monday_tagesschau-133
+     Gold: auch morgen erwartet uns eine ruhige herbstmischung aus hochnebel wolken und sonne
+     Pred: am montag ist es im norden recht freundlich sonst regnet es gebietsweise im bergland schnee
+
+ -> Video: 01November_2010_Monday_tagesschau-133
+     Gold: auch morgen erwartet uns eine ruhige herbstmischung aus hochnebel wolken und sonne
+     Pred: am samstag ist es im süden meist bedeckt mit blitz, donner und schauern sonst regnet oder nieselt es
+
+ -> Video: 01November_2010_Monday_tagesschau-133
+     Gold: auch morgen erwartet uns eine ruhige herbstmischung aus hochnebel wolken und sonne
+     Pred: am samstag ist es im süden meist stark bewölkt richtung südosten ist es freundlich
+test/bleu4: 5.03
+test/bleu1: 15.51
+test/bleu2: 9.13
+test/bleu3: 6.43
+test/rougeL_precision: 0.15
+test/rougeL_recall: 0.15
+test/rougeL_f1: 0.14
